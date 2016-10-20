@@ -1,0 +1,43 @@
+body{
+  background-image: url('image/awesome-beautiful.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  position: absolute;
+  font-family: 'Dancing Script', cursive;
+}
+
+nav{
+  position: relative;
+  top: 256px;
+  left: 711px;
+  width: 595px;
+  height: 53px;
+  background-color: #000;
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+  border-radius: 50%;
+}
+
+
+
+a {
+  text-decoration: none;
+  padding: 50px;
+  color: #fff;
+  font-size: 32px;
+}
+
+
+
+
+h1 {
+  font-size: 69px;
+  padding: 23px;
+  position: relative;
+  top: -45px;
+  left: 126px;
+}
+
+
+
