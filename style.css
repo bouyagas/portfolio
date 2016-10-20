@@ -39,5 +39,7 @@ h1 {
   left: 126px;
 }
 
-
+a:hover{
+  color: pink;
+}
 
